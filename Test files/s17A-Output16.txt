@@ -1,0 +1,4 @@
+
+AAAAAAAAAAAAAAAAA
+
+16 bit checksum is     4b12 for all   18 chars

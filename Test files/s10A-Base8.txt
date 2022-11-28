@@ -1,0 +1,4 @@
+
+AAAAAAAAAA
+
+ 8 bit checksum is       94 for all   11 chars

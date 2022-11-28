@@ -1,0 +1,4 @@
+
+AAAAAAAAAA
+X
+16 bit checksum is     509d for all   12 chars
