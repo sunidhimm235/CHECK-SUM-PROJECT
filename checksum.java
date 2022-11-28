@@ -3,35 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 
-/*=============================================================================
-| Assignment: pa02 - Calculating an 8, 16, or 32 bit
-| checksum on an ASCII input file
-|
-| Author: Sunidhi Mistry
-| Language: java
-|
-| To Compile: javac pa02.java
-|
-| To Execute: java -> java pa02 inputFile.txt 8
-| or c++ -> ./pa02 inputFile.txt 8
-| or c -> ./pa02 inputFile.txt 8
-| or go -> ./pa02 inputFile.txt 8
-| or python-> python pa02.py inputFile.txt 8
-| where inputFile.txt is an ASCII input file
-| and the number 8 could also be 16 or 32
-| which are the valid checksum sizes, all
-| other values are rejected with an error message
-| and program termination
-|
-| Note: All input files are simple 8 bit ASCII input
-|
-| Class: CIS3360 - Security in Computing - Fall 2022
-| Instructor: McAlpin
-| Due Date: per assignment
-|
-+=============================================================================*/
-
-public class pa02 {
+public class checksum {
     public static void main(String[] args) throws IOException {
 
         // convert the above pasted code in C to Java
@@ -357,12 +329,3 @@ public class pa02 {
     }
 
 }
-
-/*=============================================================================
-| I Sunidhi Mistry (su358025) affirm that this program is
-| entirely my own work and that I have neither developed my code together with
-| any another person, nor copied any code from any other person, nor permitted
-| my code to be copied or otherwise used by any other person, nor have I
-| copied, modified, or otherwise used programs created by others. I acknowledge
-| that any violation of the above terms will be treated as academic dishonesty.
-+=============================================================================*/
